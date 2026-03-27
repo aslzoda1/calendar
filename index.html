@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Aslzoda's Calendar</title>
+
+  <!-- External Libraries CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/evo-calendar@1.1.2/evo-calendar/css/evo-calendar.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Link to CSS File -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Loader -->
+  <div id="loader" aria-hidden="true" role="status">
+    <div class="loader-dot" aria-hidden="true"></div>
+    <div class="loader-dot" aria-hidden="true"></div>
+    <div class="loader-dot" aria-hidden="true"></div>
+  </div>
+
+  <div class="wrap">
+    <div class="topbar">
+      <div class="title">
+        <div class="logo">A</div>
+        <div>
+          Aslzoda's Calendar
+          <div class="subtitle">Brilliant</div>
+        </div>
+      </div>
+
+      <div class="lang-actions">
+        <button class="lang-btn" onclick="setLanguage('en')">English 🇬🇧</button>
+      </div>
+    </div>
+
+    <div class="calendar-card" id="card">
+      <div id="calendar"></div>
+    </div>
+  </div>
+
+  <!-- Secret Modal -->
+  <div id="secretModal" class="secret-modal" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="secret-card">
+      <h2>Welcome to Aslzoda's Secret Page ✨</h2>
+      <p>Happy Aslzoda's Day!</p>
+      <button class="close-btn" onclick="closeSecret()">Close</button>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/evo-calendar@1.1.2/evo-calendar/js/evo-calendar.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
