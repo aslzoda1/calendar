@@ -1,4 +1,4 @@
-# 📅 Aslzoda’s Calendar — Aesthetic Event Tracker
+# 📅 ᴀꜱʟᴢᴏᴅᴀ’ꜱ ᴄᴀʟᴇɴᴅᴀʀ — ᴀᴇꜱᴛʜᴇᴛɪᴄ ᴇᴠᴇɴᴛ ᴛʀᴀᴄᴋᴇʀ
 
 ![Netlify Status](https://img.shields.io/netlify/aslzoda-calendar.netlify.app)
 ![License](https://img.shields.io/badge/license-MIT-green)
