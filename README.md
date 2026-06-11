@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Tech](https://img.shields.io/badge/tech-HTML5%20%7C%20CSS3%20%7C%20JS-orange)
 
-**Aslzoda’s Calendar** — bu shunchaki taqvim emas, balki foydalanuvchiga yuqori darajadagi vizual tajriba ulashuvchi modern veb-ilova. U bayramlar, maxsus kunlar va tug‘ilgan kunlarni kuzatish uchun maxsus ishlab chiqilgan.
+**Aslzoda’s Calendar** — 𝒃𝒖 𝒔𝒉𝒖𝒏𝒄𝒉𝒂𝒌𝒊 𝒕𝒂𝒒𝒗𝒊𝒎 𝒆𝒎𝒂𝒔, 𝒃𝒂𝒍𝒌𝒊 𝒇𝒐𝒚𝒅𝒂𝒍𝒂𝒏𝒖𝒗𝒄𝒉𝒊𝒈𝒂 𝒚𝒖𝒒𝒐𝒓𝒊 𝒅𝒂𝒓𝒂𝒋𝒂𝒅𝒂𝒈𝒊 𝒗𝒊𝒛𝒖𝒂𝒍 𝒕𝒂𝒋𝒓𝒊𝒃𝒂 𝒖𝒍𝒂𝒔𝒉𝒖𝒗𝒄𝒉𝒊 𝒎𝒐𝒅𝒆𝒓𝒏 𝒗𝒆𝒃-𝒊𝒍𝒐𝒗𝒂. 𝑼 𝒃𝒂𝒚𝒓𝒂𝒎𝒍𝒂𝒓, 𝒎𝒂𝒙𝒔𝒖𝒔 𝒌𝒖𝒏𝒍𝒂𝒓 𝒗𝒂 𝒕𝒖𝒈‘𝒊𝒍𝒈𝒂𝒏 𝒌𝒖𝒏𝒍𝒂𝒓𝒏𝒊 𝒌𝒖𝒛𝒂𝒕𝒊𝒔𝒉 𝒖𝒄𝒉𝒖𝒏 𝒎𝒂𝒙𝒔𝒖𝒔 𝒊𝒔𝒉𝒍𝒂𝒃 𝒄𝒉𝒊𝒒𝒊𝒍𝒈𝒂𝒏.
 
 🌐 **Live Demo:** [aslzoda-calendar.netlify.app](https://aslzoda-calendar.netlify.app)
 
